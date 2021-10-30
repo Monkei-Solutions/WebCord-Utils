@@ -1,5 +1,5 @@
 {
-  "name": "@spacingbat3/jsonc-parser",
+  "name": "@Monkei-Solutions/jsonc-parser",
   "version": "1.0.2",
   "description": "Simple JSON with Comments file format parser.",
   "main": "dist/jsoncParser.js",
@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/SpacingBat3/WebCord-Utils#readme",
   "author": {
-    "name": "SpacingBat3",
-    "email": "npm@spacingbat3.anonaddy.com",
-    "url": "https://github.com/SpacingBat3"
+    "name": "Descendo The Monkei#0624",
+    "email": "npm@descendo.anonaddy.me",
+    "url": "https://github.com/Monkei-Cord"
   },
   "license": "MIT",
   "devDependencies": {
