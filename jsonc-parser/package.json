@@ -12,17 +12,36 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpacingBat3/WebCord-Utils"
+    "url": "git+https://github.com/Monkei-Solutions/WebCord-Utils"
   },
   "bugs": {
-    "url": "https://github.com/SpacingBat3/WebCord-Utils/issues"
+    "url": "https://github.com/Monkei-Solutions/WebCord-Utils/issues"
   },
-  "homepage": "https://github.com/SpacingBat3/WebCord-Utils#readme",
+  "homepage": "https://github.com/Monkei-Solutions/WebCord-Utils#readme",
   "author": {
-    "name": "Descendo The Monkei#0624",
-    "email": "npm@descendo.anonaddy.me",
-    "url": "https://github.com/Monkei-Cord"
+    "name": "SpacingBat3",
+    "email": "git@spacingbat3.anonaddy.com",
+    "url": "https://github.com/SpacingBat3"
   },
+  "maintainers": [
+    {
+      "name": "Descendo The Monkei#0624",
+      "email": "github@descendo.anonaddy.me",
+      "url": "https://github.com/Monkei-Cord"
+    }
+  ],
+  "contributors":[
+    {
+      "name": "Descendo The Monkei#0624",
+      "email": "github@descendo.anonaddy.me",
+      "url": "https://github.com/Monkei-Cord"
+    },
+     {
+      "name": "Hayden-Droid",
+      "email": "github@descendo.anonaddy.me",
+      "url": "https://github.com/hayden-droid"
+    }
+  ], 
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.9.1",
