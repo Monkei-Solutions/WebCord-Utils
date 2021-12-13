@@ -1,6 +1,6 @@
 {
   "name": "@Monkei-Solutions/jsonc-parser",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Simple JSON with Comments file format parser.",
   "main": "dist/jsoncParser.js",
   "scripts": {
@@ -20,25 +20,25 @@
   "homepage": "https://github.com/Monkei-Solutions/WebCord-Utils#readme",
   "author": {
     "name": "SpacingBat3",
-    "email": "git@spacingbat3.anonaddy.com",
+    "email": "npm@spacingbat3.anonaddy.com",
     "url": "https://github.com/SpacingBat3"
   },
-  "maintainers": [
+"maintainers": [
     {
       "name": "Descendo The Monkei#0624",
-      "email": "github@descendo.anonaddy.me",
+      "email": "npm@descendo.anonaddy.me",
       "url": "https://github.com/Monkei-Cord"
     }
   ],
   "contributors":[
     {
       "name": "Descendo The Monkei#0624",
-      "email": "github@descendo.anonaddy.me",
+      "email": "npm@descendo.anonaddy.me",
       "url": "https://github.com/Monkei-Cord"
     },
      {
       "name": "Hayden-Droid",
-      "email": "github@descendo.anonaddy.me",
+      "email": "npm@descendo.anonaddy.me",
       "url": "https://github.com/hayden-droid"
     }
   ], 
